@@ -2,7 +2,7 @@
 
 Effective date: June 29, 2025
 
-[Your App Name] ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy describes how we collect, use, and share information when you use our mobile application.
+YourFirsts ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy describes how we collect, use, and share information when you use our mobile application.
 
 ---
 
@@ -92,7 +92,7 @@ We may update this Privacy Policy from time to time. If we make significant chan
 
 If you have any questions about this Privacy Policy or how your data is handled, you can contact us at:
 
-**Email**: [support@yourapp.com](mailto:support@yourapp.com)
+**Email**: [hello@rawfishbytes.com](mailto:hello@rawfishbytes.com)
 
 ---
 
